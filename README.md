@@ -1,4 +1,4 @@
-# MMobility Behavior Evolution During Extended Emergencies: Returners–Explorers and 15-Minute City
+# Mobility Behavior Evolution During Extended Emergencies: Returners–Explorers and 15-Minute City
 
 This repository contains code and instructions for reproducing the analysis presented in the study **"Multi-Stage Clustering of Daily Human Activities: Patterns and Socio-Demographic Insights."** The project focuses on clustering human mobility patterns using large-scale mobile phone data and explores behavioral shifts across normal and emergency periods.
 
@@ -32,5 +32,6 @@ Each notebook includes:
 - Plot generation for mobility patterns and behavioral insights
 
 ---
+
 
 
